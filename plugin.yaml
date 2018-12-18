@@ -1,0 +1,6 @@
+plugin:
+    name: 'mirjan.oklogin::lang.plugin.name'
+    description: 'mirjan.oklogin::lang.plugin.description'
+    author: 'Mirjan Asymbaev'
+    icon: oc-icon-ok
+    homepage: ''

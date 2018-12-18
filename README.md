@@ -1,0 +1,1 @@
+Allows visitors to register/sign in with their ok.ru accounts for October CMS
